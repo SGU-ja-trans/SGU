@@ -14,10 +14,13 @@
 00:02:56,499 --> 00:02:58,126
 All right, get out of the way.
 Get out of the way!
+大丈夫、よけて
+よけて！
 
 5
 00:02:59,202 --> 00:03:00,294
 Come here! Come here!
+こっちへ！こっちへ！
 
 6
 00:03:00,403 --> 00:03:01,802
@@ -27,28 +30,38 @@ Come here! Come here!
 00:03:05,175 --> 00:03:07,507
 Move, move!
 Come on, come on, come on, come on!
+どいて、どいて！
+こっちへ、こっちへ
 
 8
 00:03:08,344 --> 00:03:12,007
 This is Scott. Slow down the evac!
 We are coming in too hot!
+こちらスコット、もっとゆっくり！
+混乱してる！
 
 9
 00:03:12,749 --> 00:03:14,046
 Colonel, come in!
+大佐、応答を！
 
 10
 00:03:14,184 --> 00:03:16,652
 MAN 1 : Move it back!
-MAN 2: Oh, my God, where are we?
+MAN 2 : Oh, my God, where are we?
+男  1 : もどって!
+男  2 : オーマイガッ！どこ？
+
 
 11
 00:03:19,222 --> 00:03:20,655
 WOMAN 1 : What is this place?
+女1 : ここはどこ？
 
 12
 00:03:21,691 --> 00:03:23,249
 SCOTT: Move away from the gate!
+スコット：ゲートから離れて！
 
 13
 00:03:24,861 --> 00:03:25,919
@@ -58,23 +71,30 @@ SCOTT: Move away from the gate!
 00:03:26,362 --> 00:03:28,296
 -Where are we?
 -MAN 3: Where is this?
+-どこ
+-男3: ここはどこなんだ？
 
 15
 00:03:28,398 --> 00:03:29,865
 Why didn't we come through to Earth?
+地球につながってたのでは？？
 
 16
 00:03:29,999 --> 00:03:32,194
 There's no time to explain. Off to the side!
+説明している時間はない。端に寄って！
 
 17
 00:03:32,335 --> 00:03:33,461
 WOMAN 2: What's going on?
+女性2:どういうこと？
 
 18
 00:03:33,570 --> 00:03:35,868
 SCOTT: All right.
 Come on, come on, come on.
+スコット:大丈夫
+こっちへ、こっちへ。
 
 19
 00:03:36,005 --> 00:03:37,768
@@ -83,25 +103,32 @@ Come on, come on, come on.
 20
 00:03:38,675 --> 00:03:40,336
 This is Scott. Come in!
+こちらスコット。応答を！
 
 21
 00:03:42,679 --> 00:03:44,977
 Colonel, come in!
+大佐、応答を！
 
 22
 00:03:45,081 --> 00:03:47,606
 -l need a medic!
 -Over here!
+-医療班！
+-こっちよ！
 
 23
 00:03:50,019 --> 00:03:53,352
 JOHANSEN: Can you move your fingers?
 VOLKER: No. l think my arm's broken.
+ヨハンセン:指を動かせる？
+ヴォルカー:いや、折れてると思う。
 
 24
 00:03:53,490 --> 00:03:56,550
 Okay, just hold your arm there
 and we'll put it in a sling, okay?
+固定するわ、OK？
 
 25
 00:03:57,594 --> 00:03:59,289
@@ -118,7 +145,7 @@ and we'll put it in a sling, okay?
 28
 00:04:20,583 --> 00:04:23,814
 (ECHOlNG) Keep calm. Keep coming.
-
+(反響) 落ち着いて、続いて。
 29
 00:04:31,294 --> 00:04:32,352
 (GRUNTlNG)
@@ -127,6 +154,8 @@ and we'll put it in a sling, okay?
 00:04:37,901 --> 00:04:40,529
 Clear this area.
 There could still be more incoming.
+クリア。
+もっとくるかもしれない。
 
 31
 00:04:56,319 --> 00:04:57,411
@@ -140,19 +169,25 @@ There could still be more incoming.
 00:05:04,661 --> 00:05:06,561
 -Are you okay?
 -Yeah.
+-大丈夫ですか？
+-あぁ。
 
 34
 00:05:08,932 --> 00:05:10,695
 We've got to move. Move!
+-移動して、移動！
 
 35
 00:05:12,268 --> 00:05:13,792
 Where the hell are we?
+どこなんだ？
 
 36
 00:05:17,640 --> 00:05:21,940
 -Greer? Where's Colonel Young?
 -He was right behind me.
+グリアー？大佐はどこだ？
+-自分の真後ろにいました。
 
 37
 00:05:25,114 --> 00:05:26,308
@@ -166,47 +201,60 @@ Where the hell are we?
 00:05:34,958 --> 00:05:37,017
 -Move. Move. Move.
 -SCOTT: Ouiet!
+-移動して、移動。
+-スコット：静かに！
 
 40
 00:05:38,895 --> 00:05:40,692
 -GREER: Stay calm !
 -Move. Excuse me.
+グリアー：冷静に！
+-ちょっと、失礼！！
 
 41
 00:05:40,797 --> 00:05:42,094
 GREER: Keep it down!
+グリアー：静かに！
 
 42
 00:05:42,232 --> 00:05:44,029
 Move. Move. Move. Move. Move.
+ちょっと、移動するわ。
 
 43
 00:05:47,637 --> 00:05:50,538
 Colonel? Colonel?
+大佐？大佐？
 
 44
 00:05:50,907 --> 00:05:51,931
 Don't move.
+動かすな。
 
 45
 00:05:53,109 --> 00:05:54,576
 (PANTlNG) Where are... Where are we?
+われわれ…、われわれはどこに？
 
 46
 00:05:54,677 --> 00:05:56,907
 l don't know, sir. Are you...
+大佐、わかりません。
 
 47
 00:05:58,681 --> 00:06:01,115
 You're in charge, okay?
+指揮権を移譲する。いいか？
 
 48
 00:06:01,251 --> 00:06:03,082
 You're...
+あなたは…
 
 49
 00:06:07,957 --> 00:06:09,219
 Sir?
+大佐？
 
 50
 00:06:09,325 --> 00:06:10,656
@@ -216,46 +264,61 @@ Sir?
 00:06:13,196 --> 00:06:15,323
 -T.J.!
 -JOHANSEN: l'm coming!
+T.J.！
+ヨハンセン：いきます！
 
 52
 00:06:15,465 --> 00:06:17,057
 GREER: Move back, people!
 Coming through!
+グリアー：下がって！
+通るよ！
 
 53
 00:06:17,166 --> 00:06:20,397
 JOHANSEN: Let's go! Move, move, move!
 GREER: Get back, people.
+ヨハンセン：いこう！
+グリアー：みな、下がれ！
 
 54
 00:06:23,273 --> 00:06:26,174
 -ls he okay?
 -l don't know.
+彼は大丈夫か？
+わからないわ。
 
 55
 00:06:26,309 --> 00:06:27,742
 WRAY: Get back!
+レイ：下がれ！
 
 56
 00:06:30,780 --> 00:06:34,181
 Wallace! What is this place?
+ウォレス！ここはどこだ？
 
 57
 00:06:34,317 --> 00:06:36,410
 -Look, l just did what Rush told me...
 -Where is he?
+ちょうどラッシュに同じことを聞こうと…
+彼はどこだ？
 
 58
 00:06:36,519 --> 00:06:37,645
 l don't know. He went through ahead of me.
+わからない。僕の前にゲートを抜けたけど。
 
 59
 00:06:37,787 --> 00:06:42,019
 Rush! Rush! Eli, help me find him.
+ラッシュ！ラッシュ！イーライ、探すのを手伝ってくれ。
 
 60
 00:06:42,158 --> 00:06:43,250
 What, l...
+あぁ。
 
 61
 00:06:43,359 --> 00:06:44,519
@@ -264,32 +327,39 @@ What, l...
 62
 00:06:45,128 --> 00:06:46,254
 MAN 5: What's that?
+男５：あれはなんだ？
 
 63
 00:06:51,301 --> 00:06:54,361
 What in the hell was that?
+あれはなんだ？
 
 64
 00:06:54,504 --> 00:06:56,802
 l don't know. Look,
+わからない。みろ？
 
 65
 00:06:56,906 --> 00:06:59,875
 Sergeant, l need you
 to get these people settled.
-
+軍曹、みなを落ち着かせるのにきみの助けが必要だ。
 66
 00:07:00,009 --> 00:07:04,946
 And you find out who and what we've got.
 Nobody leaves this room.
+それから、われわれの装備と人員を確認しろ。
+だれも部屋から出すな。
 
 67
 00:07:05,048 --> 00:07:06,208
 Yes, sir.
+イエス、サー。
 
 68
 00:07:11,321 --> 00:07:12,845
 Eli! Now!
+イーライ！
 
 69
 00:07:18,161 --> 00:07:19,651
@@ -299,103 +369,131 @@ Eli! Now!
 00:07:20,930 --> 00:07:22,693
 ELl: The core of the planet
 is the power source.
-
+イーライ：星のコアは動力源だ。
 71
 00:07:22,832 --> 00:07:25,027
 You have to channel it into the weapon
 to destroy the enemy ship.
+敵を破壊するため、兵器にパワーを与えねばならない。
 
 72
 00:07:25,168 --> 00:07:26,829
 -MAN:: Can't do it, dude:
 -Uh, doing it.
+男：できないよ。
+いや、やるんだ。
 
 73
 00:07:26,936 --> 00:07:29,302
 It's one of those programmer's jokes,
 a probIem that can't be soIved:
+問題は解決できないよ。
 
 74
 00:07:29,405 --> 00:07:31,202
 -Already solved it.
 -No, you didn't:
+既にそれは解決した。
+いや、できてない。
 
 75
 00:07:31,341 --> 00:07:35,004
 Just shut up! Watch this.
+だまれ！これをみろ。
 
 76
 00:07:41,451 --> 00:07:43,043
 -What the hell!
 -What happened?
+いったいどうなってる！
+なにが起こった？
 
 77
 00:07:43,186 --> 00:07:47,247
 Nothing happened.
 l'm back at the beginning of the level.
+何も。
+最初のレベルに戻った。
 
 78
 00:07:47,390 --> 00:07:49,381
 -You're so fuII of yourseIf:
 -No. No, no, no. lt worked.
+うぬぼれすぎｗ
+いや、いやいや、やったよ。
 
 79
 00:07:49,525 --> 00:07:51,823
 -The firing code locked in.
 -Whatever:
+発射コードがロックされた。
+なんなりと
 
 80
 00:07:55,998 --> 00:07:58,023
 That was extremely unsatisfying.
+それは納得いかないな。
 
 81
 00:08:12,281 --> 00:08:13,578
 Eli Wallace?
+イーライ ウォレス？
 
 82
 00:08:15,184 --> 00:08:18,312
 Actually, Eli's not here right now.
+実は、イーライは今ここにはいない。
 
 83
 00:08:20,690 --> 00:08:24,558
 Okay, okay. Whatever you guys think
 that l did, l swear you got the wrong guy.
+OK。OK。僕がそうだと思ってるんだろ。違うと誓うよ。
 
 84
 00:08:24,694 --> 00:08:26,821
 Do l look like someone
 who'd be standing here
+ここに突っ立てる私がどう見える？
 
 85
 00:08:26,929 --> 00:08:30,057
 if l didn't already know
 everything there is to know about you?
+君についてのすべてをしらないとでも？
 
 86
 00:08:30,733 --> 00:08:32,496
 -Yeah, not really.
 -Right.
+わかった。ちがうよ。
+よし。
 
 87
 00:08:33,636 --> 00:08:35,069
 ELl: Who are you?
+イーライ：だれ？
 
 88
 00:08:35,204 --> 00:08:38,230
 Dr. Nicholas Rush. May we come in?
+ニコラス ラッシュ博士。入っても？
 
 89
 00:08:38,941 --> 00:08:40,033
 Why?
+どうして？
 
 90
 00:08:42,578 --> 00:08:44,569
 You just spent a great deal of time recently
+かなりの時間かかるからさ。
 
 91
 00:08:44,714 --> 00:08:47,046
 playing an online fantasy game
 called Prometheus:
+プロメテウスというオンラインファンタジーゲームをやってるね？
 
 92
 00:08:47,750 --> 00:08:48,739
@@ -404,24 +502,29 @@ called Prometheus:
 93
 00:08:48,885 --> 00:08:51,012
 Big Brother's got nothing better to do?
+なにか問題でも？
 
 94
 00:08:52,288 --> 00:08:55,189
 Last night you solved
 the Dakara weapons puzzle.
+昨夜、君はダカラ兵器のパズルを解いたね。
 
 95
 00:08:55,558 --> 00:08:58,527
 Yeah, a month of my life went into that.
+あぁ、人生の一ヶ月をかけた
 
 96
 00:08:58,628 --> 00:09:02,120
 You know what happens
 when you solve that thing? Nothing.
+なにがおこったかしってるか？なにも。
 
 97
 00:09:02,265 --> 00:09:05,701
 We're here. That happened.
+われわれがここにいる。おこったじゃないか。
 
 98
 00:09:05,802 --> 00:09:07,736
