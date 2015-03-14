@@ -981,26 +981,31 @@ Me? l've been on lots of various...
 00:13:47,817 --> 00:13:50,217
 -You've heard of me?
 -l have.
+聞いたことあるの？
+ええ。
 
 180
 00:13:50,519 --> 00:13:52,510
 Wow, that almost never happens.
-
+わお。おこりえないことがおこった。
 181
 00:13:53,155 --> 00:13:54,213
 And you are?
+それで君は？
 
 182
 00:13:54,356 --> 00:13:56,950
 Chloe. l work for Alan Armstrong.
+クロエ。アラン・アームストロングの秘書よ。
 
 183
 00:13:58,694 --> 00:14:00,059
 Senator of California?
-
+カリフォルニアの上院議員？
 184
 00:14:00,196 --> 00:14:03,188
 Oh, yeah, yeah. l have heard of California.
+あぁそう。カリフォルニアってのは聞いたことある。
 
 185
 00:14:03,332 --> 00:14:04,356
@@ -1010,35 +1015,45 @@ Oh, yeah, yeah. l have heard of California.
 00:14:04,500 --> 00:14:07,992
 My last job was in the burger and fries
 field. How'd you line that up?
-
+僕の最後の仕事はバーガーショップでの揚げ物。
+きみは？
 187
 00:14:08,104 --> 00:14:11,073
 l was a political science major
 at Harvard, so...
+わたしはハーバードで政治学を専攻してたわ。
 
 188
 00:14:11,207 --> 00:14:15,143
 Mmm. l hear it's a good school.
 For a while there l was at...
+へぇ。いい学校だね。
+少しの間、僕は…
 
 189
 00:14:15,244 --> 00:14:17,007
 MlT. l know.
+MITにいた。
 
 190
 00:14:17,113 --> 00:14:20,241
 Really? What else have
 they told you about me?
+本当？他に私について何をきいたの？
 
 191
 00:14:33,796 --> 00:14:36,321
 -What?
 -l've seen this writing before.
+なに？
+この文書前にみたよ。
 
 192
 00:14:37,466 --> 00:14:39,263
 -ln the game?
 -Yeah.
+ゲームで？
+そう。
 
 193
 00:14:44,073 --> 00:14:45,062
@@ -1047,36 +1062,43 @@ they told you about me?
 194
 00:14:49,912 --> 00:14:53,404
 Sheesh. We're on a ship?
+ちっ。われわれは船に？
 
 195
 00:14:56,552 --> 00:15:01,114
 RUSH: The design is clearly Ancient,
 in the truest sense of the word.
-
+ラッシュ：これは明らかにエンシェントのデザインだ。
 196
 00:15:01,924 --> 00:15:04,916
 Launched hundreds of thousands
 of years ago.
+数十万年前の。
 
 197
 00:15:05,060 --> 00:15:06,721
 Dr. Rush?
+ラッシュ博士？
 
 198
 00:15:06,829 --> 00:15:09,957
 Faster than light,
 yet not through hyperspace.
+まだ、ハイパースペースの前の超光速航行だ。
 
 199
 00:15:10,099 --> 00:15:13,034
 -What are you doing?
 -Who knows how far it's traveled.
+なにしてる？
+だれがどうやって旅したか知ってる。
 
 200
 00:15:13,135 --> 00:15:17,231
 Dr. Rush, l've got a lot of wounded.
 We need to get home.
-
+ラッシュ博士、大勢の負傷者がいる。
+われわれは家に帰りたいんだ。
 201
 00:15:20,342 --> 00:15:22,037
 (PEOPLE CHATTERlNG)
@@ -1089,82 +1111,106 @@ We need to get home.
 00:15:33,789 --> 00:15:35,279
 JOHANSEN ON RADIO::
 Lieutenant Scott, come in:
-
+ヨハンセン(無線)：
+スコット中尉、応答を。
 204
 00:15:36,058 --> 00:15:37,082
 Go ahead.
+どうぞ！
 
 205
 00:15:37,426 --> 00:15:40,088
 We've got a problem.
 One of the air vents just shut down in here.
+問題があります。
+ここのひとつの通気坑がいまこわれました。
 
 206
 00:15:42,097 --> 00:15:43,587
 Copy that.
+了解。
 
 207
 00:15:43,699 --> 00:15:46,224
 Yeah, the air's getting pretty thin
 in here, too.
+あぁ、ここも空気が薄くなってきている。
 
 208
 00:15:46,335 --> 00:15:49,827
 -What does that mean?
 -That the life support system is failing.
+どういう意味？
+生命維持システムが機能していないんだ。
 
 209
 00:15:51,207 --> 00:15:53,937
 And we should probably do
 something about that.
+何かしなければならない。
 
 210
 00:16:04,220 --> 00:16:05,812
 EMlLY: Well, it's always just one more year.
+エミリー：それで、一年間ずっとそれよ。
 
 211
 00:16:05,955 --> 00:16:07,320
 lt's a command.
+命令なんだ。
 
 212
 00:16:07,456 --> 00:16:10,118
 -Where?
 -lt's a lot safer than other places l've been.
+どこ？
+前いたとこよりは安全な場所です。。
 
 213
 00:16:10,226 --> 00:16:13,525
 -You've put your time in, Everett.
 -When this tour is over, l promise...
-
+時間がかかったわ、エヴァレット。
+この任務が終わったときには、約束する。
 214
 00:16:13,662 --> 00:16:16,995
 (ECHOlNG) You know what?
 Never mind. Don't bother.
+例のあれ？
+心配するな。邪魔しないでくれ。
 
 215
 00:16:17,132 --> 00:16:20,363
 You always end up choosing
 somewhere other than here.
+あなたは結局ここ以外のどこかで選択するのよ。
 
 216
 00:16:20,502 --> 00:16:22,936
 (ECHOlNG) l am not choosing
 my job over you.
+俺は、きみより仕事を選択してないよ。
 
 217
 00:16:23,038 --> 00:16:25,768
 How you can even say...
 How you can even say that to me?
+どうだっていえるわ…
+どうだって私にいえる？
 
 218
 00:16:27,009 --> 00:16:30,172
 l love you, but l can't wait anymore.
 l can't wait anymore.
+愛している。けどもう待てない。
+もう待てないんだ。
 
 219
 00:16:35,651 --> 00:16:40,953
 Everett? Are you okay?
 Sweetheart, baby, look at me.
+エヴァレット？大丈夫？
+あなた、私をみて。
 
 220
 00:16:41,657 --> 00:16:43,056
@@ -1173,6 +1219,7 @@ Sweetheart, baby, look at me.
 221
 00:16:45,060 --> 00:16:49,690
 Colonel? Colonel?
+大佐？大佐？
 
 222
 00:16:52,001 --> 00:16:53,730
@@ -1181,6 +1228,7 @@ Colonel? Colonel?
 223
 00:16:54,937 --> 00:16:55,995
 Oh, my God.
+オーマイガッ
 
 224
 00:16:59,608 --> 00:17:00,870
