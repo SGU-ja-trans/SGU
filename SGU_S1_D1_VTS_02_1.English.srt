@@ -1164,14 +1164,14 @@ lt's a command.
 -Where?
 -lt's a lot safer than other places l've been.
 どこ？
-前いたとこよりは安全な場所です。。
+前いたとこよりは安全だ。
 
 213
 00:16:10,226 --> 00:16:13,525
 -You've put your time in, Everett.
 -When this tour is over, l promise...
 時間がかかったわ、エヴァレット。
-この任務が終わったときには、約束する。
+この任務が終わったときには、約束する…
 214
 00:16:13,662 --> 00:16:16,995
 (ECHOlNG) You know what?
@@ -1195,8 +1195,8 @@ my job over you.
 00:16:23,038 --> 00:16:25,768
 How you can even say...
 How you can even say that to me?
+どうだって、
 どうだっていえるわ…
-どうだって私にいえる？
 
 218
 00:16:27,009 --> 00:16:30,172
@@ -1233,11 +1233,14 @@ Oh, my God.
 224
 00:16:59,608 --> 00:17:00,870
 Can't you do something?
+なんとかならないか？
 
 225
 00:17:01,010 --> 00:17:03,240
 He's having a seizure.
 There's nothing l can do.
+発作よ。
+できることはないわ。
 
 226
 00:17:14,089 --> 00:17:15,647
@@ -1245,103 +1248,132 @@ There's nothing l can do.
 
 227
 00:17:17,760 --> 00:17:20,388
-ON RADIO:: Scott, this is CoIoneI Young:
+ON RADIO:: Scott, this is Colonel Young:
 Come in, pIease:
+無線：スコット、こちらヤング大佐
+来い。どうぞ。
 
 228
 00:17:21,297 --> 00:17:24,323
 Our guests have arrived a few minutes
-earIy, Lieutenant: What's your position?
+early, Lieutenant: What's your position?
+来客がすこし早く到着した。
+どこにいる？
 
 229
 00:17:24,433 --> 00:17:27,402
 Come on. Not yet. Not yet.
+おい、まだか。
 
 230
 00:17:29,305 --> 00:17:32,900
 Lieutenant, drop whatever you're doing
 and get your ass up here:
+中尉、いまやってることがなんであれやめてこっちへこい！
 
 231
 00:17:37,446 --> 00:17:38,743
 l'm on my way, sir.
+向かってます。大佐。
 
 232
 00:17:46,789 --> 00:17:48,017
 Bye.
+じゃあな。
 
 233
 00:18:00,569 --> 00:18:02,036
 Holy...
+ホーリー…
 
 234
 00:18:06,642 --> 00:18:09,736
 Senator, it is my honor
 to welcome you to lcarus Base.
+イカルス基地へお越しいただき光栄です
 
 235
 00:18:09,845 --> 00:18:12,905
 Colonel. This is
 my executive assistant, Chloe.
+大佐、秘書のクロエだ。
 
 236
 00:18:13,148 --> 00:18:14,080
 -lt's a pleasure to meet you, sir.
 -The pleasure's mine.
+お会いできて光栄ですわ、大佐。
+私もです。
 
 237
 00:18:15,903 --> 00:18:17,564
 She's also my daughter.
+彼女は私の娘でもある。
 
 238
 00:18:19,240 --> 00:18:24,576
 -You must be the...
 -Contest winner, yeah. That is a big gun.
+あなたはたしか…
+コンテストの勝者さ。でかい銃だね。
 
 239
 00:18:24,678 --> 00:18:25,975
 Rail gun. Five hundred rounds per minute.
+レールガンだ。一分間に５００発発射できる。
 
 240
 00:18:27,581 --> 00:18:30,880
 This is Lieutenant Scott.
 He's been assigned to you, Mr. Wallace.
+こちらは、スコット中尉。
+ウォレス氏の担当だ。
 
 241
 00:18:30,985 --> 00:18:32,475
 Shall we go inside?
+さぁ中へ。
 
 242
 00:18:34,096 --> 00:18:35,757
 She's also my daughter.
+彼女は私の娘でもある。
+
 
 243
 00:18:37,432 --> 00:18:42,768
 -You must be the...
 -Contest winner, yeah. That is a big gun.
+あなたはたしか…
+コンテストの勝者さ。でかい銃だね。
 
 244
 00:18:42,871 --> 00:18:44,361
 Rail gun. 500 rounds per minute.
+レールガンだ。一分間に５００発発射できる。
 
 245
 00:18:45,874 --> 00:18:49,071
 This is Lieutenant Scott.
 He's been assigned to you, Mr. Wallace.
+こちらは、スコット中尉。
+ウォレス氏の担当だ。
 
 246
 00:18:55,851 --> 00:18:57,785
 ARMSTRONG: You could probably
 shave a few dollars off the budget
-
+アームストロング：君は熱を下げることによって、
 247
 00:18:57,886 --> 00:18:58,978
 just by turning the heat down.
+予算を少々削ることができたでしょう。
 
 248
 00:18:59,087 --> 00:19:01,555
 Actually, cooling the place
 is what costs money, sir.
+たしかに、この場所を冷やすにはお金がかかります。
 
 249
 00:19:01,690 --> 00:19:04,853
