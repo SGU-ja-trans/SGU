@@ -1,0 +1,2788 @@
+1
+00:00:04,129 --> 00:00:08,623
+<i>I may be on the verge of discovering
+the true nature of Destiny's mission.</i>
+
+2
+00:00:09,868 --> 00:00:12,962
+<i>You've had control of this ship
+the whole time!</i>
+
+3
+00:00:13,037 --> 00:00:14,470
+Why wouldn't you tell anyone?
+
+4
+00:00:14,539 --> 00:00:17,565
+The Lucian Alliance is planning
+an attack on Earth.
+
+5
+00:00:18,042 --> 00:00:21,136
+<i>I killed Riley.
+I suffocated him with my own hands.</i>
+
+6
+00:00:21,212 --> 00:00:23,441
+You are a good commander.
+
+7
+00:00:23,514 --> 00:00:26,278
+<i>There is no mission other
+than getting these people home.</i>
+
+8
+00:00:26,350 --> 00:00:29,547
+<i>It was never about going home, it's
+about getting us to where we're going.</i>
+
+9
+00:00:29,620 --> 00:00:32,054
+That is the mission.
+
+10
+00:00:32,122 --> 00:00:34,488
+<i>I've just been going over
+the shuttle's navigational data</i>
+
+11
+00:00:34,591 --> 00:00:36,957
+<i>trying to figure out the path
+you took back to Destiny.</i>
+
+12
+00:00:37,027 --> 00:00:39,257
+<i>It seems you were there,
+and then you were here.</i>
+
+13
+00:00:39,329 --> 00:00:40,353
+<i>Nothing in between.</i>
+
+14
+00:00:40,430 --> 00:00:42,762
+Every square inch of this thing
+is in perfect factory condition.
+
+15
+00:00:42,833 --> 00:00:43,925
+<i>There's hundreds
+of these things!</i>
+
+16
+00:00:44,001 --> 00:00:45,832
+<i>There's no way we're going to be
+able to shoot them all down!</i>
+
+17
+00:00:45,903 --> 00:00:47,370
+How's that damage report coming?
+
+18
+00:00:47,437 --> 00:00:48,904
+I'll arrange a briefing
+when we're ready,
+
+19
+00:00:48,972 --> 00:00:50,030
+but it's not going to be pretty.
+
+20
+00:00:50,107 --> 00:00:51,836
+<i>I'm supposed to
+be back to normal.</i>
+
+21
+00:00:51,909 --> 00:00:54,002
+<i>You managed to retain
+some of the knowledge you gained.</i>
+
+22
+00:00:54,077 --> 00:00:55,169
+<i>I should think that's a good thing.</i>
+
+23
+00:00:55,245 --> 00:00:56,837
+Because I can still be useful.
+
+24
+00:00:56,914 --> 00:00:59,348
+Everyone on this ship is useful.
+
+25
+00:01:00,150 --> 00:01:01,741
+We all belong here.
+
+26
+00:01:04,086 --> 00:01:06,816
+All right, somebody say something.
+How bad is it?
+
+27
+00:01:06,889 --> 00:01:09,357
+It isn't any one thing,
+it's the accumulation.
+
+28
+00:01:09,425 --> 00:01:11,552
+This ship just wasn't up
+to fighting a battle like that.
+
+29
+00:01:11,627 --> 00:01:14,960
+A big chunk of the life support
+is still down, too.
+
+30
+00:01:15,164 --> 00:01:16,688
+Well, you can repair it, right?
+
+31
+00:01:16,766 --> 00:01:17,960
+With what?
+
+32
+00:01:18,034 --> 00:01:20,195
+Even if we knew how,
+we don't have the spare parts.
+
+33
+00:01:20,369 --> 00:01:23,736
+I mean, I'm talking about things
+that are broken and burnt out,
+
+34
+00:01:23,806 --> 00:01:25,330
+that I don't even know what they do.
+
+35
+00:01:25,408 --> 00:01:28,866
+Now, if life support was our only problem
+we might be able to figure something out.
+
+36
+00:01:28,945 --> 00:01:31,140
+But there are dozens of systems
+on the brink of failure.
+
+37
+00:01:31,214 --> 00:01:32,681
+Weapons, shields...
+
+38
+00:01:32,748 --> 00:01:34,716
+Well, they're operating.
+
+39
+00:01:35,084 --> 00:01:36,779
+And at mission critical levels?
+
+40
+00:01:37,853 --> 00:01:40,320
+We are down to one last everything.
+
+41
+00:01:40,622 --> 00:01:41,884
+There's practically no redundancy.
+
+42
+00:01:41,957 --> 00:01:43,083
+"Practically no redundancy."
+
+43
+00:01:43,191 --> 00:01:45,989
+- Wasn't funny the first three times!
+- Well, I'm very tired.
+
+44
+00:01:46,061 --> 00:01:48,461
+Okay, we know what the problems are.
+What are the solutions?
+
+45
+00:01:51,900 --> 00:01:53,800
+Well, what I think we're trying to say...
+
+46
+00:01:53,868 --> 00:01:56,200
+We make do as best we can
+and carry on with the mission.
+
+47
+00:01:56,271 --> 00:01:58,535
+Well, it doesn't sound like
+that's what they were trying to say.
+
+48
+00:01:58,607 --> 00:02:00,404
+You're talking like we have a choice here.
+
+49
+00:02:00,475 --> 00:02:02,306
+- Actually...
+- Eli, please...
+
+50
+00:02:02,377 --> 00:02:04,607
+Ginn and I figured out
+
+51
+00:02:04,679 --> 00:02:08,581
+<i>how to dial the ninth chevron back to Earth
+while Destiny recharges in a star.</i>
+
+52
+00:02:09,517 --> 00:02:11,985
+- Without blowing up the ship, you mean?
+- Yeah.
+
+53
+00:02:12,053 --> 00:02:13,350
+- No.
+- Here we go.
+
+54
+00:02:13,421 --> 00:02:16,116
+Look, Eli's solution however brilliant,
+
+55
+00:02:16,190 --> 00:02:18,590
+fails to consider the thousand things
+that could go wrong
+
+56
+00:02:18,659 --> 00:02:20,627
+when attempting to open
+a wormhole in a star.
+
+57
+00:02:20,694 --> 00:02:21,888
+I can show you the simulation.
+
+58
+00:02:21,962 --> 00:02:24,624
+More to the point, it could cause
+the same kind of overload
+
+59
+00:02:24,698 --> 00:02:25,960
+that happened on Icarus.
+
+60
+00:02:26,033 --> 00:02:28,024
+Well, who cares if we're not even
+going to be here?
+
+61
+00:02:28,102 --> 00:02:29,330
+Well, I do, Lieutenant.
+
+62
+00:02:29,403 --> 00:02:31,633
+Along with anyone else
+who cares to remain aboard this ship.
+
+63
+00:02:31,705 --> 00:02:34,173
+Rush, come on, man.
+Nobody in their right mind would stay.
+
+64
+00:02:34,241 --> 00:02:36,641
+You said you understood
+how important this mission was.
+
+65
+00:02:36,710 --> 00:02:38,473
+- I did.
+- So what's changed?
+
+66
+00:02:38,545 --> 00:02:40,274
+Nicholas, you know what's changed.
+
+67
+00:02:40,347 --> 00:02:42,645
+Look, I was all aboard with this,
+you know that,
+
+68
+00:02:42,716 --> 00:02:44,946
+but if the ship can't fly,
+there is no mission.
+
+69
+00:02:45,019 --> 00:02:46,111
+It's not like we're just giving up here.
+
+70
+00:02:46,186 --> 00:02:47,517
+Well, that's exactly what we're doing.
+
+71
+00:02:47,588 --> 00:02:49,180
+Well, fortunately for the
+people on this ship,
+
+72
+00:02:49,256 --> 00:02:50,382
+the decision is not yours to make.
+
+73
+00:02:50,457 --> 00:02:52,425
+Well, thankfully it's not
+your bloody decision either...
+
+74
+00:02:52,493 --> 00:02:54,050
+- Rush!
+- We can get through this!
+
+75
+00:02:54,127 --> 00:02:55,594
+They are just being defeatist!
+
+76
+00:02:55,662 --> 00:02:58,893
+My first responsibility
+is the safety of these people.
+
+77
+00:02:59,999 --> 00:03:01,057
+I'm sorry.
+
+78
+00:03:03,536 --> 00:03:04,764
+Yeah, right.
+
+79
+00:03:30,296 --> 00:03:32,024
+- Oh, whoa.
+- Stand aside, Sergeant.
+
+80
+00:03:33,632 --> 00:03:36,965
+- I can't do that. Colonel's orders.
+- Since when?
+
+81
+00:03:37,336 --> 00:03:38,735
+Just now.
+
+82
+00:03:40,205 --> 00:03:41,194
+Did he say why?
+
+83
+00:03:41,973 --> 00:03:43,167
+I didn't ask.
+
+84
+00:03:45,110 --> 00:03:47,203
+Okay, could you tell me where else
+I've been banned from?
+
+85
+00:03:47,279 --> 00:03:48,541
+Save me wasting my time.
+
+86
+00:03:48,613 --> 00:03:50,774
+Pretty much any place
+that you can push buttons.
+
+87
+00:03:51,450 --> 00:03:52,474
+Ah.
+
+88
+00:03:52,884 --> 00:03:54,943
+And I've got people
+where all the buttons are.
+
+89
+00:03:59,891 --> 00:04:02,758
+<i>Destiny's course is
+taking us toward a star</i>
+
+90
+00:04:02,828 --> 00:04:05,388
+roughly 18 hours ahead,
+we assume to recharge.
+
+91
+00:04:05,464 --> 00:04:07,329
+We should be ready.
+
+92
+00:04:07,399 --> 00:04:09,491
+Oh, we've been ready for a long time.
+
+93
+00:04:09,567 --> 00:04:10,761
+I'm ready, and I just got here.
+
+94
+00:04:10,868 --> 00:04:12,495
+I can only imagine what it's like for you.
+
+95
+00:04:20,544 --> 00:04:22,307
+Hi. We've been expecting you.
+
+96
+00:04:22,813 --> 00:04:24,713
+Well, it seems you can predict
+my every move.
+
+97
+00:04:24,782 --> 00:04:27,512
+Well, I had to make sure you didn't
+lock us out of the dialing programs.
+
+98
+00:04:27,752 --> 00:04:30,482
+The thought never crossed my mind.
+
+99
+00:04:32,256 --> 00:04:34,156
+I see the elders have gathered.
+
+100
+00:04:36,594 --> 00:04:39,791
+You should know
+Eli is using the stones right now
+
+101
+00:04:39,864 --> 00:04:42,059
+to run his calculations
+by the best people on Earth.
+
+102
+00:04:42,166 --> 00:04:43,656
+They'll tell him what I told him.
+
+103
+00:04:43,734 --> 00:04:45,759
+The work is brilliant,
+but what works on paper
+
+104
+00:04:45,836 --> 00:04:48,167
+does not necessarily work within a star.
+
+105
+00:04:48,238 --> 00:04:50,570
+Well, Eli said that he's taken that
+into consideration.
+
+106
+00:04:50,707 --> 00:04:53,039
+Eli is not an astrophysicist.
+
+107
+00:04:53,543 --> 00:04:57,445
+Inside a star there are magnetic fields,
+
+108
+00:04:57,514 --> 00:05:00,244
+enormous pressures, solar flares,
+
+109
+00:05:00,316 --> 00:05:04,309
+conditions that make events
+unpredictable by any mathematics.
+
+110
+00:05:05,155 --> 00:05:08,647
+Now, will Eli's connection to Earth work?
+
+111
+00:05:08,725 --> 00:05:09,851
+Possibly.
+
+112
+00:05:09,926 --> 00:05:12,554
+But what happens the moment
+that wormhole has been established
+
+113
+00:05:12,629 --> 00:05:13,789
+is anybody's guess.
+
+114
+00:05:13,863 --> 00:05:16,058
+It could blow a hole in the fabric
+of space-time.
+
+115
+00:05:16,132 --> 00:05:17,656
+He's out of his freaking mind,
+you know that?
+
+116
+00:05:17,801 --> 00:05:21,328
+All right.
+So, what are you asking us to do?
+
+117
+00:05:22,539 --> 00:05:24,267
+Let me talk to the crew.
+
+118
+00:05:24,339 --> 00:05:26,603
+At least some of them understand
+how important it is
+
+119
+00:05:26,675 --> 00:05:28,074
+to remain on this ship.
+
+120
+00:05:28,143 --> 00:05:29,735
+Nobody is going to agree to that!
+
+121
+00:05:29,812 --> 00:05:34,340
+You say you have no choice but to leave.
+I have no choice but to stay.
+
+122
+00:05:36,552 --> 00:05:38,281
+We're going to brief
+everyone in the Gate Room
+
+123
+00:05:38,353 --> 00:05:39,581
+the minute we come out of FTL.
+
+124
+00:05:39,655 --> 00:05:41,680
+You can address them then.
+
+125
+00:05:42,991 --> 00:05:46,722
+It would carry far more weight
+if you were standing alongside me.
+
+126
+00:05:48,997 --> 00:05:50,294
+I can do that.
+
+127
+00:05:57,105 --> 00:05:58,436
+Thank you.
+
+128
+00:06:04,045 --> 00:06:05,239
+You're not serious.
+
+129
+00:06:06,447 --> 00:06:07,971
+Oh, I think he is.
+
+130
+00:06:15,423 --> 00:06:17,687
+We've run the simulation
+a dozen times. It works.
+
+131
+00:06:17,758 --> 00:06:21,159
+So, the gamer came up
+with power flow algorithm?
+
+132
+00:06:21,229 --> 00:06:22,594
+Eli, yeah.
+
+133
+00:06:22,964 --> 00:06:25,558
+I gotta say, you know,
+when we tried to solve this back on Earth,
+
+134
+00:06:25,633 --> 00:06:28,568
+there were a lot of
+smart people in that room.
+
+135
+00:06:28,636 --> 00:06:29,967
+Yeah, well, don't tell him I said this,
+
+136
+00:06:30,037 --> 00:06:32,631
+but he's arguably the smartest person
+I've ever met...
+
+137
+00:06:33,274 --> 00:06:34,571
+You all right?
+
+138
+00:06:34,642 --> 00:06:37,076
+- I'm fine. I'm back.
+- What did they say?
+
+139
+00:06:38,212 --> 00:06:39,644
+The math works, so we're on.
+
+140
+00:06:41,948 --> 00:06:45,213
+Who was the smartest person
+you were just talking about?
+
+141
+00:06:46,486 --> 00:06:47,544
+Einstein.
+
+142
+00:06:51,191 --> 00:06:52,215
+Einstein?
+
+143
+00:06:52,826 --> 00:06:54,817
+Yeah, he was... He was pretty smart.
+
+144
+00:06:55,362 --> 00:06:57,421
+But don't ever tell him you said that?
+
+145
+00:06:57,697 --> 00:07:01,155
+All right, come on,
+let's go tell the Colonel the news.
+
+146
+00:07:30,963 --> 00:07:33,864
+- Hey, T.J., can you give us a minute?
+- Yeah.
+
+147
+00:07:35,267 --> 00:07:37,701
+Can you keep this ship flying?
+
+148
+00:07:37,770 --> 00:07:38,828
+Yeah, with help.
+
+149
+00:07:38,904 --> 00:07:41,338
+Then I need to know an absolute
+minimum number of personnel
+
+150
+00:07:41,407 --> 00:07:42,396
+you need to do it.
+
+151
+00:07:43,342 --> 00:07:44,934
+Well, as many as possible, obviously.
+
+152
+00:07:45,044 --> 00:07:46,102
+I need a number.
+
+153
+00:07:47,780 --> 00:07:48,906
+I'll say a dozen.
+
+154
+00:07:49,014 --> 00:07:50,038
+Plus you and me?
+
+155
+00:07:54,018 --> 00:07:55,781
+No, including us.
+
+156
+00:07:55,920 --> 00:07:56,944
+So, 10.
+
+157
+00:07:58,990 --> 00:08:01,458
+Yeah, look, I've written down
+most of what I intend to say.
+
+158
+00:08:01,526 --> 00:08:02,993
+If you've got anything
+you might want to add...
+
+159
+00:08:03,061 --> 00:08:05,461
+<i>Everett,
+is Rush in the Gate Room with you?</i>
+
+160
+00:08:05,530 --> 00:08:06,724
+Yeah, what is it?
+
+161
+00:08:06,798 --> 00:08:08,060
+<i>I need both of you on the bridge.</i>
+
+162
+00:08:08,132 --> 00:08:09,531
+We don't have time for this just now.
+
+163
+00:08:09,601 --> 00:08:11,933
+David, we were just gonna talk to the crew.
+Can it wait?
+
+164
+00:08:12,136 --> 00:08:14,502
+<i>Negative! Get up here. Trust me.</i>
+
+165
+00:08:14,839 --> 00:08:16,136
+We have time.
+
+166
+00:08:17,542 --> 00:08:20,602
+Yeah. Time they might need to decide.
+
+167
+00:08:21,479 --> 00:08:23,003
+Just keep everyone here.
+We'll be right back.
+
+168
+00:08:23,514 --> 00:08:24,811
+Uh, sure.
+
+169
+00:08:33,924 --> 00:08:35,186
+What is it?
+
+170
+00:08:36,026 --> 00:08:37,357
+It was in orbit around the star.
+
+171
+00:08:37,427 --> 00:08:39,895
+<i>Destiny picked it up
+when it turned towards us,</i>
+
+172
+00:08:39,997 --> 00:08:41,965
+and then we got the radio broadcast.
+
+173
+00:08:42,032 --> 00:08:43,090
+From who?
+
+174
+00:08:43,934 --> 00:08:45,128
+You.
+
+175
+00:08:46,603 --> 00:08:47,661
+I don't understand.
+
+176
+00:08:47,804 --> 00:08:51,331
+Neither do we. Wait for it.
+
+177
+00:08:53,677 --> 00:08:54,803
+Wait for what?
+
+178
+00:08:54,878 --> 00:08:58,006
+<i>I repeat, this is Dr.
+Nicholas Rush calling the Destiny.</i>
+
+179
+00:08:58,081 --> 00:09:01,539
+<i>I'm aboard the shuttle headed your way.
+Please respond.</i>
+
+180
+00:09:01,618 --> 00:09:04,781
+Well, isn't this an
+interesting turn of events?
+
+181
+00:09:04,855 --> 00:09:06,015
+What is this?
+
+182
+00:09:06,123 --> 00:09:08,387
+Well, I wouldn't know, Colonel.
+How about you tell me?
+
+183
+00:09:09,458 --> 00:09:11,255
+Well, it's not a recording,
+if that's what you're thinking.
+
+184
+00:09:11,327 --> 00:09:12,817
+It's a subspace broadcast,
+
+185
+00:09:12,895 --> 00:09:14,954
+and beyond the fact
+that it sounds exactly like Rush,
+
+186
+00:09:15,031 --> 00:09:18,933
+I can tell that that's our shuttle,
+and it's on an intercept course.
+
+187
+00:09:19,001 --> 00:09:22,402
+<i>Even though according to this, the
+shuttle is still docked with Destiny.</i>
+
+188
+00:09:23,239 --> 00:09:24,433
+<i>Again, this is Dr. Rush.</i>
+
+189
+00:09:24,507 --> 00:09:26,566
+<i>I need assistance
+with the docking procedure.</i>
+
+190
+00:09:26,642 --> 00:09:28,041
+<i>I know you can hear me.</i>
+
+191
+00:09:30,813 --> 00:09:32,144
+Have we responded yet?
+
+192
+00:09:32,214 --> 00:09:33,408
+No, not yet.
+
+193
+00:09:33,482 --> 00:09:36,576
+Well, best not to keep me waiting.
+
+194
+00:09:41,257 --> 00:09:44,454
+Hello, this is also Dr. Nicholas Rush.
+How can we be of assistance?
+
+195
+00:09:46,295 --> 00:09:49,024
+<i>Tell them not to try
+and dial Earth. It won't work.</i>
+
+196
+00:09:49,097 --> 00:09:50,894
+<i>If they go through with it,
+they're all going to die.</i>
+
+197
+00:09:50,965 --> 00:09:53,627
+This is Colonel Young.
+Dr. Rush is sitting right next to me.
+
+198
+00:09:53,702 --> 00:09:56,762
+Yes, obviously. We've just spoken.
+
+199
+00:09:56,838 --> 00:10:01,434
+The only reasonable explanation is that
+somehow I've come back through time.
+
+200
+00:10:02,444 --> 00:10:04,036
+Reasonable explanation?
+
+201
+00:10:04,112 --> 00:10:07,172
+<i>I couldn't be sure until I
+seen you dropping out of FTL,</i>
+
+202
+00:10:07,248 --> 00:10:10,684
+which happened roughly 12 hours ago
+in my timeline.
+
+203
+00:10:10,752 --> 00:10:13,277
+And we're supposed to
+just take your word for this?
+
+204
+00:10:13,722 --> 00:10:17,818
+Shortly after we dropped out of FTL,
+Colonel, you asked me for a number.
+
+205
+00:10:17,892 --> 00:10:19,883
+I told you 10, plus two.
+
+206
+00:10:26,633 --> 00:10:27,657
+Twelve?
+
+207
+00:10:27,735 --> 00:10:30,704
+That's well calculated, Mr. Volker,
+but I think you're missing the point here.
+
+208
+00:10:31,238 --> 00:10:33,103
+Is that true?
+Did you just have that conversation?
+
+209
+00:10:33,173 --> 00:10:35,539
+Yeah. Yeah, we did.
+
+210
+00:10:46,820 --> 00:10:50,654
+It's weird.
+I was completely stoked about this mission.
+
+211
+00:10:50,724 --> 00:10:52,157
+Yeah, we all were.
+
+212
+00:10:52,226 --> 00:10:54,490
+All of a sudden I can't wait to see my kid.
+
+213
+00:10:54,895 --> 00:10:57,989
+Wow. Gosh, and I thought
+the hardest thing was going to be
+
+214
+00:10:58,065 --> 00:10:59,259
+introducing you to my mom.
+
+215
+00:10:59,333 --> 00:11:01,994
+Okay, that makes me more nervous
+than going through the dang gate.
+
+216
+00:11:02,869 --> 00:11:07,670
+Hey, when we get back,
+we're all still gonna hang out, right?
+
+217
+00:11:07,740 --> 00:11:10,971
+- Yeah, of course we will.
+- We will have a reunion every year.
+
+218
+00:11:11,244 --> 00:11:13,178
+I was thinking more along
+the lines of Fridays.
+
+219
+00:11:14,013 --> 00:11:16,277
+Depends on whether
+you're stationed Earth-side.
+
+220
+00:11:16,549 --> 00:11:19,245
+I can guarantee you
+that Earth will be my station.
+
+221
+00:11:19,418 --> 00:11:20,817
+But you're joining Stargate Command.
+
+222
+00:11:20,887 --> 00:11:22,946
+Like they're gonna ask me.
+
+223
+00:11:23,990 --> 00:11:26,151
+They'll ask you, Eli.
+
+224
+00:11:26,225 --> 00:11:29,820
+You'll be right up there
+with the other SGC brainiacs,
+
+225
+00:11:29,896 --> 00:11:31,887
+like Dr. Jackson and Colonel Carter,
+
+226
+00:11:31,964 --> 00:11:35,092
+and, uh, what was that guy's name
+who kept staring at your...
+
+227
+00:11:35,168 --> 00:11:36,635
+Ugh, McKay.
+
+228
+00:11:36,702 --> 00:11:39,226
+Yeah, McKay.
+They'll ask you right when we get back.
+
+229
+00:11:39,304 --> 00:11:40,999
+<i>Lieutenant Scott, come in.</i>
+
+230
+00:11:41,540 --> 00:11:43,735
+Yes, sir, is there a problem?
+
+231
+00:11:43,809 --> 00:11:46,903
+<i>Yeah. Join up with Greer,
+head to Shuttle Bay 2.</i>
+
+232
+00:12:09,267 --> 00:12:10,359
+Open it.
+
+233
+00:12:22,279 --> 00:12:23,268
+Easy!
+
+234
+00:12:23,347 --> 00:12:25,838
+Don't listen to him!
+He's gonna try and kill you all!
+
+235
+00:12:34,124 --> 00:12:35,921
+What in the hell?
+
+236
+00:12:35,993 --> 00:12:37,460
+T.J., this is Young.
+
+237
+00:12:38,529 --> 00:12:40,087
+Yes, sir, the gang's all here.
+
+238
+00:12:40,164 --> 00:12:43,759
+<i>Yeah, they're going to have to wait.
+We need you in the infirmary.</i>
+
+239
+00:12:58,715 --> 00:13:01,377
+- How did you get the burn?
+- There was an overload.
+
+240
+00:13:02,585 --> 00:13:04,917
+I couldn't stop it.
+
+241
+00:13:04,988 --> 00:13:07,582
+Explosions all over the ship
+one after another.
+
+242
+00:13:09,092 --> 00:13:11,856
+The air became so toxic,
+I had no choice but to abandon.
+
+243
+00:13:11,928 --> 00:13:15,386
+And at which point, you somehow
+went back 12 hours in time?
+
+244
+00:13:15,465 --> 00:13:19,094
+No, no, no, that would
+have to happen inside the star.
+
+245
+00:13:19,168 --> 00:13:23,332
+The ship itself must have passed
+very near a solar flare,
+
+246
+00:13:23,406 --> 00:13:26,341
+in the exact moment
+we locked the ninth chevron address.
+
+247
+00:13:26,409 --> 00:13:30,436
+A temporal event, like we've seen,
+cause time travel through wormholes.
+
+248
+00:13:31,614 --> 00:13:33,137
+It somehow affected the entire ship.
+
+249
+00:13:34,249 --> 00:13:37,412
+One of those unpredictable things
+I remember warning you about.
+
+250
+00:13:42,824 --> 00:13:44,223
+What are you smiling at?
+
+251
+00:13:44,293 --> 00:13:45,590
+Well, you should know.
+
+252
+00:13:45,661 --> 00:13:48,596
+What, fascinating, is it?
+
+253
+00:13:48,664 --> 00:13:51,132
+Well, you wouldn't think so if you'd
+been through what I've been through.
+
+254
+00:13:51,199 --> 00:13:52,757
+Well, I won't have to now, will I?
+
+255
+00:13:52,834 --> 00:13:57,362
+Look, we can still do this
+if we could just learn from your mistakes.
+
+256
+00:13:57,439 --> 00:14:00,499
+My mistakes? The only mistake
+was trying it in the first place!
+
+257
+00:14:00,575 --> 00:14:02,065
+No, no, wait a second, she's right.
+
+258
+00:14:02,144 --> 00:14:03,668
+Just because it went wrong
+the first time round...
+
+259
+00:14:03,745 --> 00:14:06,179
+Wait, isn't it the same time again?
+
+260
+00:14:06,248 --> 00:14:07,647
+No, not entirely.
+
+261
+00:14:07,716 --> 00:14:10,275
+We'd end up with two of us
+staying behind next time.
+
+262
+00:14:10,351 --> 00:14:12,683
+If we kept going long enough,
+we'd soon have an entire crew.
+
+263
+00:14:12,753 --> 00:14:15,119
+We still have an hour
+before we run Eli's program.
+
+264
+00:14:15,189 --> 00:14:16,178
+Tell us what happened.
+
+265
+00:14:17,825 --> 00:14:20,885
+Up to the point you received
+my radio signal, you know what happened.
+
+266
+00:14:20,962 --> 00:14:22,190
+I need a number.
+
+267
+00:14:23,564 --> 00:14:24,758
+I'll say a dozen.
+
+268
+00:14:24,832 --> 00:14:25,821
+Plus you and me?
+
+269
+00:14:29,904 --> 00:14:31,872
+No, including us.
+
+270
+00:14:31,939 --> 00:14:32,928
+So, 10.
+
+271
+00:14:34,642 --> 00:14:37,042
+Yeah, look, I've written down
+most of what I intend to say.
+
+272
+00:14:37,111 --> 00:14:38,601
+If you've got anything
+you might want to add...
+
+273
+00:14:38,679 --> 00:14:41,910
+So, I'll speak when you're done.
+But just so we're clear,
+
+274
+00:14:41,983 --> 00:14:43,780
+if we don't get the 10 volunteers...
+
+275
+00:14:43,851 --> 00:14:45,250
+We will.
+
+276
+00:14:46,053 --> 00:14:47,041
+Okay.
+
+277
+00:14:50,757 --> 00:14:52,657
+You were true to your word, Colonel.
+
+278
+00:14:53,560 --> 00:14:55,619
+You stood alongside me.
+
+279
+00:14:55,695 --> 00:14:58,528
+Ladies and gentlemen,
+if I could have your attention, please?
+
+280
+00:14:58,898 --> 00:15:01,594
+Dr. Rush would like to say a few words.
+
+281
+00:15:06,673 --> 00:15:08,140
+My friends...
+
+282
+00:15:11,811 --> 00:15:15,907
+Well, yes, perhaps that's an overstatement,
+
+283
+00:15:15,982 --> 00:15:19,247
+but we are at least shipmates,
+
+284
+00:15:19,319 --> 00:15:23,653
+who have, up until now,
+shared great adversity.
+
+285
+00:15:26,592 --> 00:15:29,755
+I know a lot of you, probably most of you,
+
+286
+00:15:29,828 --> 00:15:32,388
+also share the hope of going home.
+
+287
+00:15:33,465 --> 00:15:37,424
+It is a fact that the
+conditions inside a star
+
+288
+00:15:37,503 --> 00:15:41,030
+bode very poorly for the sustained
+viability of a wormhole,
+
+289
+00:15:41,106 --> 00:15:43,131
+and I owe it to you all to tell you that.
+
+290
+00:15:43,208 --> 00:15:45,369
+Stop trying to scare people
+and get on with this.
+
+291
+00:15:48,013 --> 00:15:50,504
+The Ancients did not devote
+
+292
+00:15:50,582 --> 00:15:54,609
+the efforts of an entire generation
+to build this ship on a whim.
+
+293
+00:15:55,454 --> 00:15:58,321
+<i>Neither was Destiny named on a whim.</i>
+
+294
+00:15:58,924 --> 00:16:01,949
+Over a million years ago,
+
+295
+00:16:02,026 --> 00:16:05,052
+the Ancients discovered
+a complex structure
+
+296
+00:16:05,129 --> 00:16:07,962
+buried deep within
+the background radiation,
+
+297
+00:16:08,032 --> 00:16:10,500
+the fingerprints of an intelligence
+
+298
+00:16:10,568 --> 00:16:14,664
+that existed very near the beginning
+of time itself.
+
+299
+00:16:14,739 --> 00:16:19,403
+<i>Destiny was launched
+in search of that intelligence.</i>
+
+300
+00:16:19,477 --> 00:16:21,707
+Who knows how close we are to finding it?
+
+301
+00:16:21,779 --> 00:16:26,512
+How close we are to learning,
+in the Ancients' words,
+
+302
+00:16:26,584 --> 00:16:28,711
+"The destiny of all things."
+
+303
+00:16:30,021 --> 00:16:33,149
+I don't pretend to know
+when that's going to be,
+
+304
+00:16:33,224 --> 00:16:36,216
+in which stars it will happen,
+
+305
+00:16:36,294 --> 00:16:39,729
+or even how that will change
+our view of the universe.
+
+306
+00:16:40,964 --> 00:16:45,025
+<i>I only know that Destiny
+has come this far,</i>
+
+307
+00:16:45,102 --> 00:16:47,502
+and if we abandon her now,
+
+308
+00:16:50,774 --> 00:16:52,867
+there'll be no coming back.
+
+309
+00:16:55,112 --> 00:16:57,876
+All of that knowledge will be lost forever.
+
+310
+00:16:59,149 --> 00:17:04,985
+I believe this journey
+is the reason I'm here,
+
+311
+00:17:05,055 --> 00:17:07,250
+but I can't hope to do it alone.
+
+312
+00:17:08,658 --> 00:17:10,717
+I ask you to come with me.
+
+313
+00:17:14,097 --> 00:17:19,932
+Now, I believe that those of you
+who want to go home
+
+314
+00:17:20,002 --> 00:17:21,333
+deserve that chance.
+
+315
+00:17:21,403 --> 00:17:26,204
+But I joined Stargate Command for a reason,
+
+316
+00:17:26,275 --> 00:17:29,574
+so I, too, am willing to stay aboard.
+
+317
+00:17:32,014 --> 00:17:38,647
+What we are looking for are 10 volunteers,
+
+318
+00:17:38,721 --> 00:17:40,154
+so I am asking,
+
+319
+00:17:40,222 --> 00:17:44,682
+those of you who want to be here,
+
+320
+00:17:44,760 --> 00:17:46,489
+please step forward.
+
+321
+00:18:30,471 --> 00:18:32,495
+All right, listen to me!
+
+322
+00:18:32,573 --> 00:18:35,303
+You've already accomplished
+the damn mission!
+
+323
+00:18:36,243 --> 00:18:38,643
+Our goal was to investigate
+the ninth chevron address,
+
+324
+00:18:38,712 --> 00:18:40,373
+and you've done that.
+
+325
+00:18:41,582 --> 00:18:43,777
+Now, I do not deny that
+there once was a mission,
+
+326
+00:18:43,850 --> 00:18:46,410
+but if it was as important
+as Rush claims it to be,
+
+327
+00:18:46,486 --> 00:18:48,454
+they sure as hell couldn't
+expect us to do it.
+
+328
+00:18:48,989 --> 00:18:52,982
+There is no noble voyage
+to save the universe or to meet God,
+
+329
+00:18:53,060 --> 00:18:55,654
+or whatever it is that
+Rush has sold you on!
+
+330
+00:18:55,729 --> 00:18:58,596
+There is only the day that this ship dies!
+
+331
+00:18:58,732 --> 00:19:00,757
+David, we don't know that.
+
+332
+00:19:01,735 --> 00:19:03,999
+I've got a good mind to try
+to take you all back by force.
+
+333
+00:19:04,504 --> 00:19:05,835
+Good luck with that.
+
+334
+00:19:11,644 --> 00:19:13,703
+Those of you still taking part
+in the evacuation
+
+335
+00:19:13,779 --> 00:19:15,838
+are going to form two lines.
+
+336
+00:19:16,649 --> 00:19:18,742
+Everything we carry with us
+becomes a projectile
+
+337
+00:19:18,818 --> 00:19:20,046
+in a nine-chevron transit,
+
+338
+00:19:20,119 --> 00:19:23,885
+so we are going home with the clothes
+on our backs, nothing more.
+
+339
+00:19:23,956 --> 00:19:28,518
+Eli has warned them to expect us,
+but it seems that a radio signal
+
+340
+00:19:28,594 --> 00:19:31,188
+does not reach across
+a nine chevron connection,
+
+341
+00:19:31,264 --> 00:19:34,392
+so I'll go first to warn them
+that we're on our way.
+
+342
+00:19:34,467 --> 00:19:38,096
+You will follow in three-second intervals,
+two at a time.
+
+343
+00:19:38,170 --> 00:19:39,899
+Eli, are we ready?
+
+344
+00:19:40,406 --> 00:19:43,898
+Yeah, the program's all set.
+You're good to go.
+
+345
+00:19:50,815 --> 00:19:55,548
+Fifteen minutes, people, and we go home!
+
+346
+00:19:56,988 --> 00:20:00,480
+And 15 minutes after that, you were dead.
+
+347
+00:20:04,162 --> 00:20:06,756
+If all those people stayed aboard,
+why were you the only survivor?
+
+348
+00:20:06,831 --> 00:20:08,389
+I told you, there was an overload.
+
+349
+00:20:08,466 --> 00:20:11,435
+It doesn't matter.
+We have a second chance now.
+
+350
+00:20:12,203 --> 00:20:14,068
+You just need to tell us what went wrong,
+
+351
+00:20:14,139 --> 00:20:15,367
+what can we do differently.
+
+352
+00:20:15,440 --> 00:20:19,274
+Eli's program is based on precise timing
+in the recharging process.
+
+353
+00:20:19,344 --> 00:20:20,936
+A time which is fast approaching.
+
+354
+00:20:21,012 --> 00:20:24,413
+All right, so you dialed
+the ninth chevron and...
+
+355
+00:20:24,482 --> 00:20:27,245
+And it worked. We made the connection.
+
+356
+00:20:54,778 --> 00:20:55,972
+Chevron nine is locked!
+
+357
+00:21:01,452 --> 00:21:03,282
+Wait three seconds, then follow me!
+
+358
+00:21:07,657 --> 00:21:09,955
+- No, no, wait, wait!
+Stop!
+
+359
+00:21:11,761 --> 00:21:13,729
+- What is it?
+- The wormhole's unstable.
+
+360
+00:21:13,796 --> 00:21:14,785
+See for yourself.
+
+361
+00:21:14,864 --> 00:21:16,331
+- Well, shut it down.
+- I can't.
+
+362
+00:21:16,399 --> 00:21:18,492
+One of the mains blew out,
+my program can't compensate.
+
+363
+00:21:18,568 --> 00:21:20,900
+We'll have to configure
+the power levels on the fly.
+
+364
+00:21:20,970 --> 00:21:23,598
+Yes, Eli, that's what I'm doing.
+I've almost got it.
+
+365
+00:21:23,673 --> 00:21:25,766
+Everybody, stand by!
+
+366
+00:21:30,513 --> 00:21:33,107
+That's as stable as we're gonna get.
+
+367
+00:21:33,182 --> 00:21:34,672
+Okay, go, go, go!
+
+368
+00:21:48,597 --> 00:21:49,723
+It's beginning to overload!
+
+369
+00:21:49,798 --> 00:21:51,425
+Well, we were supposed to be gone by now!
+
+370
+00:21:51,500 --> 00:21:52,797
+We can't stay ahead of this!
+
+371
+00:21:56,638 --> 00:21:58,037
+We're losing her!
+
+372
+00:21:59,341 --> 00:22:01,502
+That's it, everyone, we're going through!
+Let's go!
+
+373
+00:22:01,576 --> 00:22:03,976
+All right, you heard him.
+Let's go! Come on!
+
+374
+00:22:08,183 --> 00:22:10,913
+Eli, there's nothing more you can do.
+
+375
+00:22:17,025 --> 00:22:18,491
+Eli, get the hell out of here!
+
+376
+00:22:21,829 --> 00:22:24,297
+- Rush...
+- I can't maintain a stable connection,
+
+377
+00:22:24,365 --> 00:22:26,162
+and argue with you at the same time.
+Now, please go.
+
+378
+00:22:27,735 --> 00:22:28,724
+Go!
+
+379
+00:22:49,557 --> 00:22:53,254
+I don't really know how
+long I stayed there.
+
+380
+00:22:53,327 --> 00:22:54,851
+It felt like hours.
+
+381
+00:22:56,029 --> 00:23:00,989
+<i>I kept waiting for the end to come,
+but Destiny fought to stay alive.</i>
+
+382
+00:23:02,435 --> 00:23:06,667
+How are you sure that we...
+They all didn't make it?
+
+383
+00:23:08,975 --> 00:23:11,569
+I didn't say they all didn't make it.
+
+384
+00:23:36,869 --> 00:23:39,702
+I'm Dr. Rush.
+How many of them made it through?
+
+385
+00:23:39,771 --> 00:23:42,137
+I'm sorry, sir. Only one, hours ago.
+
+386
+00:23:42,975 --> 00:23:46,706
+He's been waiting to switch with someone
+to see why the others didn't follow.
+
+387
+00:23:59,458 --> 00:24:02,655
+The connection was made,
+
+388
+00:24:02,728 --> 00:24:05,128
+but you were the only one
+who made it through to Earth.
+
+389
+00:24:18,142 --> 00:24:20,542
+We were told we'd be leaving
+for Earth by now.
+
+390
+00:24:20,611 --> 00:24:21,805
+What's happening?
+
+391
+00:24:21,879 --> 00:24:23,437
+Some funky, funky stuff, man.
+
+392
+00:24:24,482 --> 00:24:27,042
+<i>Lieutenant Scott, come in.</i>
+
+393
+00:24:27,118 --> 00:24:29,746
+Sir, you are cutting it awful close here.
+
+394
+00:24:29,820 --> 00:24:32,152
+Stand down, Lieutenant,
+we've decided not to go ahead.
+
+395
+00:24:32,223 --> 00:24:34,589
+- You've got to be kidding me.
+Sir?
+
+396
+00:24:34,659 --> 00:24:37,992
+<i>We have reason to believe the evacuees
+will not make it through alive.</i>
+
+397
+00:24:38,062 --> 00:24:40,223
+Send everyone to their quarters.
+
+398
+00:24:40,298 --> 00:24:41,629
+Understood.
+
+399
+00:24:51,775 --> 00:24:54,710
+- You made the right decision.
+- Yeah, about bloody time.
+
+400
+00:24:54,778 --> 00:24:56,803
+I want to use the stones
+to confirm his story.
+
+401
+00:24:56,880 --> 00:24:58,939
+Well, we've never used
+the stones inside a star,
+
+402
+00:24:59,015 --> 00:25:00,812
+and I don't think now is
+the time to start it,
+
+403
+00:25:00,884 --> 00:25:01,873
+but I'll tell you what,
+
+404
+00:25:01,952 --> 00:25:04,250
+you can go talk to yourself
+once we're safely on the other side.
+
+405
+00:25:04,321 --> 00:25:05,583
+Safely.
+
+406
+00:25:05,655 --> 00:25:07,816
+I think now we all need
+to be on the bridge.
+
+407
+00:25:08,491 --> 00:25:12,518
+Oh, well, at least I'll have someone
+to engage in a decent conversation.
+
+408
+00:25:27,843 --> 00:25:28,969
+There it is.
+
+409
+00:25:29,478 --> 00:25:32,276
+Well, I think that's confirmation,
+don't you?
+
+410
+00:25:32,348 --> 00:25:34,145
+We're altering course and accelerating.
+
+411
+00:25:34,216 --> 00:25:36,081
+But we're close enough
+to get a decent look at her.
+
+412
+00:26:09,751 --> 00:26:12,276
+There but for the grace of God, huh?
+
+413
+00:26:12,353 --> 00:26:13,547
+It's my fault.
+
+414
+00:26:14,956 --> 00:26:18,357
+Everybody on that ship died because of me.
+
+415
+00:26:19,827 --> 00:26:23,558
+Yeah, well, the only reason
+we're even in this situation
+
+416
+00:26:23,631 --> 00:26:25,189
+is because you were all trying to save me.
+
+417
+00:26:25,667 --> 00:26:27,760
+Do you guys see what I see?
+
+418
+00:26:28,336 --> 00:26:29,325
+What?
+
+419
+00:26:29,504 --> 00:26:32,268
+The damage is confined mostly
+to the engineering spaces.
+
+420
+00:26:32,774 --> 00:26:34,799
+The main living compartments look intact.
+
+421
+00:26:35,376 --> 00:26:36,365
+So?
+
+422
+00:26:36,944 --> 00:26:38,571
+I've got an idea.
+
+423
+00:26:41,081 --> 00:26:43,879
+Out of the way, out of the way!
+Move, move, move!
+
+424
+00:26:49,423 --> 00:26:51,653
+You just said it was
+falling back toward the star.
+
+425
+00:26:51,725 --> 00:26:54,250
+- That was me, actually.
+- Okay...
+
+426
+00:26:54,327 --> 00:26:57,057
+I'm telling you,
+we need to get over to that ship.
+
+427
+00:26:57,130 --> 00:27:00,190
+It might be worth the risk if we can
+salvage ammunition, food, supplies...
+
+428
+00:27:00,267 --> 00:27:02,929
+No, no, that's not what
+he's talking about...
+
+429
+00:27:03,003 --> 00:27:06,029
+- Well, what is it, then?
+- Spare parts. I had the same idea.
+
+430
+00:27:06,106 --> 00:27:09,234
+I ran the whole way, too, so...
+
+431
+00:27:12,512 --> 00:27:13,501
+Hmm.
+
+432
+00:27:13,980 --> 00:27:15,845
+How much time do we have
+before we're out of range?
+
+433
+00:27:15,916 --> 00:27:18,577
+Well, we can't take a shuttle,
+the other ship is too close to the star,
+
+434
+00:27:18,651 --> 00:27:20,278
+<i>and Destiny is accelerating away.</i>
+
+435
+00:27:20,753 --> 00:27:23,551
+We can arrange a short FTL jump,
+use the stargate.
+
+436
+00:27:23,823 --> 00:27:25,950
+It's the same gate. Can it dial itself?
+
+437
+00:27:26,392 --> 00:27:28,019
+I don't see why not.
+
+438
+00:27:28,094 --> 00:27:30,892
+<i>Destiny's address isn't based
+on a fixed point in space.</i>
+
+439
+00:27:30,963 --> 00:27:32,760
+We'll have to input the
+distance calculation,
+
+440
+00:27:32,832 --> 00:27:36,791
+but you guys should be able
+to work that out, right?
+
+441
+00:27:36,869 --> 00:27:39,167
+Yeah, between me, Eli, and me.
+
+442
+00:27:40,139 --> 00:27:42,664
+All right, well, let's, uh,
+let's start putting together a list.
+
+443
+00:27:42,742 --> 00:27:43,834
+Yeah.
+
+444
+00:27:45,277 --> 00:27:46,471
+I'd like to lead the team over there.
+
+445
+00:27:46,545 --> 00:27:48,843
+I should go as well.
+I'm the only one who knows
+
+446
+00:27:48,914 --> 00:27:50,245
+which systems were affected
+by the overload.
+
+447
+00:27:50,316 --> 00:27:53,012
+Listen, Rush, I don't even know
+if that's what I should call you.
+
+448
+00:27:53,152 --> 00:27:54,210
+Well, it is my name.
+
+449
+00:27:54,520 --> 00:27:57,647
+Fine. What I'm trying to say is that
+you've been through hell and back.
+
+450
+00:27:57,722 --> 00:27:58,780
+You don't got to do this.
+
+451
+00:27:58,890 --> 00:28:01,324
+The man wants to help, Everett,
+let him help.
+
+452
+00:28:01,392 --> 00:28:03,326
+We're gonna need all hands for this.
+
+453
+00:28:09,400 --> 00:28:10,492
+Okay.
+
+454
+00:28:16,975 --> 00:28:18,966
+These are priority number one!
+
+455
+00:28:19,043 --> 00:28:21,034
+We want as many
+as we can get our hands on.
+
+456
+00:28:21,112 --> 00:28:23,706
+This one's burnt out. This one's good.
+
+457
+00:28:23,782 --> 00:28:25,409
+Now, they're in every console, power relay,
+
+458
+00:28:25,483 --> 00:28:27,849
+and pretty much every piece of equipment
+aboard the ship.
+
+459
+00:28:27,919 --> 00:28:29,944
+Open 'em up, pull 'em out and move on.
+
+460
+00:28:30,021 --> 00:28:31,113
+What do you call those things?
+
+461
+00:28:31,189 --> 00:28:33,622
+I don't know..."Things that make it go."
+
+462
+00:28:33,957 --> 00:28:37,290
+We should find concentrations
+of working parts in the bridge,
+
+463
+00:28:37,361 --> 00:28:39,989
+control interface
+and neural interface rooms.
+
+464
+00:28:40,063 --> 00:28:43,055
+Number two, these things,
+and don't ask me what they're called.
+
+465
+00:28:43,133 --> 00:28:45,158
+I'm not even sure how they work.
+
+466
+00:28:45,235 --> 00:28:47,863
+We also have to get our hands
+on the other repair robot,
+
+467
+00:28:47,938 --> 00:28:49,200
+and shield emitter relays.
+
+468
+00:28:49,273 --> 00:28:50,740
+We'll get everything on the list.
+
+469
+00:28:50,808 --> 00:28:53,675
+If there's still time, we'll move on
+to our secondary objectives.
+
+470
+00:28:53,744 --> 00:28:54,972
+Yeah, how much time do we have?
+
+471
+00:28:55,512 --> 00:28:57,139
+We'll assess that once we're aboard.
+
+472
+00:28:57,214 --> 00:28:59,648
+The conditions will be difficult
+and they will be dangerous,
+
+473
+00:28:59,716 --> 00:29:02,844
+but make no mistake,
+we need to salvage these things
+
+474
+00:29:02,920 --> 00:29:05,286
+if we are going to survive.
+
+475
+00:29:08,992 --> 00:29:11,050
+Dial the gate. Everyone step back.
+
+476
+00:29:15,731 --> 00:29:16,720
+Send the Kino.
+
+477
+00:29:30,880 --> 00:29:35,408
+It's getting hot already,
+but the air is still breathable.
+
+478
+00:29:35,484 --> 00:29:36,644
+I'd call it a green light.
+
+479
+00:29:37,253 --> 00:29:38,618
+Let's move.
+
+480
+00:30:05,247 --> 00:30:07,044
+Form into your teams and standby.
+
+481
+00:30:14,122 --> 00:30:15,646
+Okay, I'm reading power and life support
+
+482
+00:30:15,724 --> 00:30:18,192
+in both the bridge
+and Control Interface Room.
+
+483
+00:30:18,260 --> 00:30:19,784
+Forty minutes till the shield fails.
+
+484
+00:30:20,395 --> 00:30:21,589
+Then that's the time we have.
+
+485
+00:30:21,663 --> 00:30:23,722
+Lieutenant, that means your team
+heads straight to the armory.
+
+486
+00:30:23,798 --> 00:30:24,822
+Got it.
+
+487
+00:30:24,900 --> 00:30:27,424
+You know your assignments, let's go!
+
+488
+00:30:28,168 --> 00:30:30,500
+This is Telford. We are proceeding.
+40 minutes on the clock.
+
+489
+00:30:30,571 --> 00:30:31,902
+Okay, let's go.
+
+490
+00:30:32,973 --> 00:30:35,271
+- David, be careful.
+- Will do.
+
+491
+00:30:57,464 --> 00:30:59,898
+Someone should report
+to Homeworld Command,
+
+492
+00:30:59,967 --> 00:31:01,366
+explain what's been going on.
+
+493
+00:31:01,435 --> 00:31:02,697
+Well, you go ahead, and when you're back,
+
+494
+00:31:02,770 --> 00:31:04,760
+you can explain it to me.
+
+495
+00:31:07,240 --> 00:31:08,366
+They must think we're all dead.
+
+496
+00:31:09,475 --> 00:31:11,602
+- It didn't happen.
+- Yeah, it did.
+
+497
+00:31:11,678 --> 00:31:12,940
+Not to us, Eli.
+
+498
+00:31:13,012 --> 00:31:17,073
+You can say anything you like.
+Tell me to take one timeline at a time,
+
+499
+00:31:17,150 --> 00:31:21,246
+but if Rush wasn't sent back
+by a freak of physics,
+
+500
+00:31:21,321 --> 00:31:23,289
+we'd all be dead by now.
+
+501
+00:31:46,411 --> 00:31:48,140
+I'll start here.
+
+502
+00:31:48,213 --> 00:31:50,374
+Let's make this quick. Spread out.
+
+503
+00:31:50,449 --> 00:31:52,314
+Over here, guys.
+
+504
+00:31:56,388 --> 00:31:58,822
+Want to try to get that alarm off?
+
+505
+00:32:14,639 --> 00:32:16,004
+Start at the back!
+
+506
+00:32:31,155 --> 00:32:32,713
+Guess we're not going in there.
+
+507
+00:32:54,011 --> 00:32:56,945
+So, this must be pretty weird
+for you two, huh?
+
+508
+00:32:57,013 --> 00:32:58,207
+Yes.
+
+509
+00:33:02,118 --> 00:33:05,053
+Half the ones I'm pulling are burnt out
+from the overload.
+
+510
+00:33:05,121 --> 00:33:06,679
+I'll take what we can get.
+
+511
+00:33:06,756 --> 00:33:08,917
+Go get your CO2 nodes.
+We need to breathe, too.
+
+512
+00:33:10,160 --> 00:33:11,957
+Penhall, you're with me.
+
+513
+00:33:15,031 --> 00:33:17,829
+That's half time, start packing it up!
+
+514
+00:33:18,802 --> 00:33:21,669
+Get back to the stargate,
+quickly as you can. Go!
+
+515
+00:33:25,742 --> 00:33:28,472
+- Gettin' hot, huh?
+- Yeah, but it's a dry heat.
+
+516
+00:33:37,786 --> 00:33:39,845
+All right, that's it,
+we're out of here. Move.
+
+517
+00:33:42,958 --> 00:33:45,483
+Get back to the Gate Room. Double time!
+
+518
+00:33:48,630 --> 00:33:50,791
+- How we doing?
+- We eat tonight.
+
+519
+00:33:50,866 --> 00:33:52,993
+- Excellent. Get out of here.
+- Pack it up.
+
+520
+00:33:54,303 --> 00:33:55,736
+Come on, let's go.
+
+521
+00:33:58,040 --> 00:33:59,701
+All right, that's it, let's go!
+
+522
+00:34:13,588 --> 00:34:15,146
+What do you think?
+
+523
+00:34:15,223 --> 00:34:16,656
+I think it's not on our list.
+
+524
+00:34:21,095 --> 00:34:25,327
+It could double the amount of weapons
+we could bring online.
+
+525
+00:34:25,399 --> 00:34:26,798
+Do we even have time for this?
+
+526
+00:34:27,835 --> 00:34:29,530
+Colonel, we've come across
+a piece of equipment
+
+527
+00:34:29,604 --> 00:34:32,266
+that could significantly increase
+our weapons capability,
+
+528
+00:34:32,340 --> 00:34:33,568
+but we're up against the clock.
+
+529
+00:34:33,641 --> 00:34:35,973
+<i>For that,
+we should risk it!</i>
+
+530
+00:34:36,043 --> 00:34:37,374
+For once, he agrees with me.
+
+531
+00:34:39,580 --> 00:34:43,072
+Okay, I'll go and I'll bring back
+the proper tools.
+
+532
+00:34:43,151 --> 00:34:44,379
+Be careful not to touch the damaged one.
+
+533
+00:34:45,086 --> 00:34:46,485
+About 1000 volts running through that.
+
+534
+00:34:46,554 --> 00:34:47,714
+Do you think I might know that?
+
+535
+00:35:05,438 --> 00:35:09,067
+Didn't mean to sneak up on you. This is it?
+
+536
+00:35:09,142 --> 00:35:12,908
+Yeah. The others took the parts
+we had back to the Gate Room.
+
+537
+00:35:12,979 --> 00:35:16,779
+My younger self is coming back to help,
+but I don't want to wait for him.
+
+538
+00:35:16,850 --> 00:35:18,147
+You don't trust him either, huh?
+
+539
+00:35:20,086 --> 00:35:22,680
+- So what went wrong?
+- What are you talking about?
+
+540
+00:35:23,857 --> 00:35:25,518
+Not that I think you would
+kill them all deliberately.
+
+541
+00:35:25,592 --> 00:35:27,286
+I tried to save them!
+
+542
+00:35:27,693 --> 00:35:29,593
+You don't think I buy that story?
+
+543
+00:35:29,662 --> 00:35:33,291
+Rush valiantly keeping the gate open
+while the ship explodes all around him?
+
+544
+00:35:33,399 --> 00:35:34,593
+I don't care what you think.
+
+545
+00:35:34,900 --> 00:35:36,629
+It wouldn't be the first time
+you sabotaged the ship
+
+546
+00:35:36,702 --> 00:35:37,930
+to make an ass out of me, would it?
+
+547
+00:35:38,003 --> 00:35:39,095
+The last time we tried to dial Earth
+
+548
+00:35:39,171 --> 00:35:41,264
+from inside a star comes to mind,
+among others.
+
+549
+00:35:41,340 --> 00:35:43,831
+- So, what went wrong?
+- The wormhole was unstable!
+
+550
+00:35:43,909 --> 00:35:45,467
+I'm talking about what really happened.
+
+551
+00:35:45,544 --> 00:35:47,136
+Their blood is on your hands, not mine.
+
+552
+00:35:47,213 --> 00:35:50,205
+They would all have made it home,
+but you did something!
+
+553
+00:35:50,282 --> 00:35:51,772
+I was trying to buy them some time!
+
+554
+00:35:51,850 --> 00:35:54,011
+Oh, and there's not a single person
+left alive to confirm that...
+
+555
+00:35:54,086 --> 00:35:56,281
+Get your hands off of me!
+You're the coward!
+
+556
+00:35:56,355 --> 00:35:57,982
+You're the one
+who didn't believe in the mission!
+
+557
+00:35:58,057 --> 00:36:00,355
+You're the one that killed them!
+
+558
+00:36:06,197 --> 00:36:07,186
+Oh, no.
+
+559
+00:36:12,403 --> 00:36:13,529
+Oh, no.
+
+560
+00:36:38,329 --> 00:36:40,763
+All right, right over here!
+
+561
+00:36:42,199 --> 00:36:43,928
+Hey, Rush, where's your other, uh...
+
+562
+00:36:44,001 --> 00:36:45,400
+He's found something
+for the weapons systems.
+
+563
+00:36:45,469 --> 00:36:46,458
+- There's no time!
+- We still have time.
+
+564
+00:36:46,536 --> 00:36:48,595
+- I'm just going back to help.
+- All right, I'll go with you!
+
+565
+00:36:48,672 --> 00:36:52,631
+Dial the gate and keep it open for us.
+T.J., get these people out of here.
+
+566
+00:36:53,777 --> 00:36:55,404
+Don't stay too long!
+
+567
+00:36:55,479 --> 00:36:58,039
+All right, everybody, move out,
+we're going to dial the gate!
+
+568
+00:36:59,283 --> 00:37:00,682
+They're dialing back.
+
+569
+00:37:01,218 --> 00:37:03,846
+Good. That was fast.
+
+570
+00:37:03,920 --> 00:37:05,444
+I wasn't finished reporting,
+
+571
+00:37:05,522 --> 00:37:07,854
+but when Colonel Telford found out
+that we were still here,
+
+572
+00:37:07,924 --> 00:37:10,654
+he insisted that he be allowed
+to use the stones
+
+573
+00:37:10,727 --> 00:37:14,254
+to switch with someone, preferably himself.
+
+574
+00:37:14,331 --> 00:37:15,423
+That's weird.
+
+575
+00:37:15,499 --> 00:37:17,524
+Yeah, well, that can wait.
+At least they know we're alive.
+
+576
+00:37:28,511 --> 00:37:29,773
+Oh, no.
+
+577
+00:37:47,963 --> 00:37:49,487
+Lieutenant Scott, where the hell are you?
+
+578
+00:37:49,565 --> 00:37:51,089
+<i>Going after something
+that's supposed to double</i>
+
+579
+00:37:51,167 --> 00:37:52,395
+<i>the weapons capability, sir.</i>
+
+580
+00:37:52,468 --> 00:37:56,199
+Negative. You don't have time for that.
+I need you to locate Colonel Telford.
+
+581
+00:37:56,272 --> 00:37:57,465
+He's not answering his radio.
+
+582
+00:37:57,539 --> 00:37:59,973
+Roger that, sir, we're
+comin' right around...
+
+583
+00:38:01,543 --> 00:38:03,067
+Scott, say again? You were cut off.
+
+584
+00:38:05,880 --> 00:38:08,405
+We found the Colonel, sir. He's dead.
+
+585
+00:38:13,955 --> 00:38:15,217
+Where's Rush?
+
+586
+00:38:16,391 --> 00:38:18,916
+He's right beside me.
+I don't know where the other one is.
+
+587
+00:38:18,993 --> 00:38:20,085
+I do.
+
+588
+00:38:20,729 --> 00:38:22,253
+Hey, hey, Rush!
+
+589
+00:38:24,232 --> 00:38:26,029
+Sir, Rush just ran off on me.
+
+590
+00:38:26,101 --> 00:38:27,932
+<i>- Let him go.
+- Sir!</i>
+
+591
+00:38:28,002 --> 00:38:29,765
+You only have a few minutes
+before the shield fails.
+
+592
+00:38:29,838 --> 00:38:31,829
+Let him go, that is an order, Lieutenant.
+
+593
+00:38:54,161 --> 00:38:55,458
+It was an accident.
+
+594
+00:38:56,897 --> 00:39:00,890
+I believe you, but they won't.
+
+595
+00:39:01,935 --> 00:39:03,027
+No.
+
+596
+00:39:05,472 --> 00:39:08,339
+Tell me, when you, uh, dialed Earth,
+
+597
+00:39:10,144 --> 00:39:11,668
+what really happened?
+
+598
+00:39:14,080 --> 00:39:15,604
+I told you what happened.
+
+599
+00:39:19,952 --> 00:39:24,651
+And so now you're trying to decide
+whether or not to sit in that chair.
+
+600
+00:39:24,724 --> 00:39:26,089
+Well, wouldn't you, in my place?
+
+601
+00:39:28,327 --> 00:39:31,296
+I'm not sure if even the knowledge
+of the Ancients can help you now.
+
+602
+00:39:34,634 --> 00:39:37,398
+Well, I really don't have anything
+to lose at this point.
+
+603
+00:39:39,672 --> 00:39:41,333
+Imagine what I could learn.
+
+604
+00:39:41,974 --> 00:39:43,498
+Well, you won't have much time.
+
+605
+00:39:43,876 --> 00:39:47,505
+Well, time's relative.
+We've just proved that, haven't we?
+
+606
+00:39:50,115 --> 00:39:51,275
+So, what are you waiting for?
+
+607
+00:39:53,385 --> 00:39:54,716
+I need your help.
+
+608
+00:40:16,174 --> 00:40:17,505
+Thank you.
+
+609
+00:40:18,443 --> 00:40:19,637
+Goodbye.
+
+610
+00:40:56,146 --> 00:40:58,273
+Come on, come on, come on!
+
+611
+00:41:18,468 --> 00:41:19,457
+You're welcome.
+
+612
+00:41:21,404 --> 00:41:23,838
+I'm okay, I'm okay.
+
+613
+00:41:27,043 --> 00:41:28,271
+Nicholas.
+
+614
+00:41:29,012 --> 00:41:30,138
+Yeah?
+
+615
+00:41:32,282 --> 00:41:33,681
+Where's the other Rush?
+
+616
+00:41:35,218 --> 00:41:37,846
+- I don't know.
+- You told Scott you knew where he went.
+
+617
+00:41:37,921 --> 00:41:40,355
+I was wrong.
+I went looking for him, couldn't find him.
+
+618
+00:41:40,423 --> 00:41:42,549
+Maybe he decided to go down with his ship.
+
+619
+00:41:43,492 --> 00:41:44,652
+That doesn't sound like me.
+
+620
+00:41:44,826 --> 00:41:48,728
+Still, you must, uh...
+You must be pleased about one thing.
+
+621
+00:41:48,797 --> 00:41:49,821
+What's that?
+
+622
+00:41:49,898 --> 00:41:52,662
+Well, we can fix the ship,
+get on with the mission.
+
+623
+00:41:55,804 --> 00:41:56,930
+Yeah, of course.
+
+624
+00:42:00,742 --> 00:42:02,710
+Get on with the mission.
+
+625
+00:43:26,726 --> 00:43:27,715
+English - US - SDH
+
